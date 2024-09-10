@@ -12,6 +12,8 @@ import pandas as pd
 import plotly.express as px
 import json
 
+server - app.server
+
 file_path = '/Users/meghapatel/Downloads/dc.csv'  # Update with your file path
 data = pd.read_csv(file_path)
 
